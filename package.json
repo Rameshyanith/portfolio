@@ -8,6 +8,7 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
+    "homepage": "https://rameshyanith.github.io/portfolio",
   },
   "dependencies": {
     "lucide-react": "^0.563.0",
