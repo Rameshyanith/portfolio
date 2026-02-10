@@ -10,7 +10,7 @@
     "preview": "vite preview"
     "homepage": "https://rameshyanith.github.io/portfolio",
     "predeploy": "npm run build",
-"deploy": "gh-pages -d build",
+"deploy": "gh-pages -d build"
   },
   "dependencies": {
     "lucide-react": "^0.563.0",
